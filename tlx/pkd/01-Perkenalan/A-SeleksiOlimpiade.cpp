@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  int tc; cin >> tc;
+  while (tc--) {
+    int n, m; cin >> n >> m;
+    string x; cin >> x;
+    for (int i = 1; i <= n; i++) {
+      string s; cin >> s;
+      int a, b, c; cin >> a >> b >> c;
+      
+    }
+  }
+  return 0;
+}
